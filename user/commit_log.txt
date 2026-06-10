@@ -582,3 +582,8 @@ Commit: fix(mobile): fix navigation gesture handling - Thu Jun 11 02:56:53 AM WI
 To github-hendi:hendi1510/Exploreid.git
    fe81ba1f..ff5a3ede  main -> main
 Commit: refactor(mobile): clean up navigation index - Thu Jun 11 02:57:57 AM WIB 2026
+[main 73e12bfa] feat(mobile): update App.tsx to use RootNavigator
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   ff5a3ede..73e12bfa  main -> main
+Commit: feat(mobile): update App.tsx to use RootNavigator - Thu Jun 11 02:59:01 AM WIB 2026
