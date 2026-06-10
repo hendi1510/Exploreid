@@ -435,3 +435,8 @@ Commit: feat(mobile): implement notification toggle switch - Thu Jun 11 02:25:55
 To github-hendi:hendi1510/Exploreid.git
    086d1438..0c2f8eba  main -> main
 Commit: style(mobile): refine Profile card elevation shadow - Thu Jun 11 02:26:59 AM WIB 2026
+[main c69088a4] feat(mobile): add logout button with danger color
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   0c2f8eba..c69088a4  main -> main
+Commit: feat(mobile): add logout button with danger color - Thu Jun 11 02:28:03 AM WIB 2026
