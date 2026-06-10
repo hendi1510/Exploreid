@@ -166,3 +166,8 @@ Commit: feat(mobile): add category filter chips to Explore - Thu Jun 11 01:29:08
 To github-hendi:hendi1510/Exploreid.git
    09711eeb..e101f558  main -> main
 Commit: feat(mobile): implement destination results list - Thu Jun 11 01:30:12 AM WIB 2026
+[main db0f26f0] style(mobile): add Sliders icon and filter UI
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   e101f558..db0f26f0  main -> main
+Commit: style(mobile): add Sliders icon and filter UI - Thu Jun 11 01:31:16 AM WIB 2026
