@@ -242,3 +242,8 @@ Commit: feat(mobile): implement rating and review summary - Thu Jun 11 01:45:15 
 To github-hendi:hendi1510/Exploreid.git
    e58dd703..a6b970ff  main -> main
 Commit: feat(mobile): add destination stats (Durasi, Kapasitas) - Thu Jun 11 01:46:19 AM WIB 2026
+[main 598f26c2] feat(mobile): implement about section and description
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   a6b970ff..598f26c2  main -> main
+Commit: feat(mobile): implement about section and description - Thu Jun 11 01:47:23 AM WIB 2026
