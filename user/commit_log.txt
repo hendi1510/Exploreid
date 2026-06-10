@@ -196,3 +196,8 @@ Commit: fix(mobile): fix keyboard dismiss on search - Thu Jun 11 01:35:33 AM WIB
 To github-hendi:hendi1510/Exploreid.git
    70bbcf73..5549dd7f  main -> main
 Commit: style(mobile): refine category button active states - Thu Jun 11 01:36:37 AM WIB 2026
+[main ad5c95a8] feat(mobile): add location pins to Explore list
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   5549dd7f..ad5c95a8  main -> main
+Commit: feat(mobile): add location pins to Explore list - Thu Jun 11 01:37:41 AM WIB 2026
