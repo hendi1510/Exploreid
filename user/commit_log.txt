@@ -44,3 +44,8 @@ Commit: feat(mobile): add categories mock data - Thu Jun 11 01:03:20 AM WIB 2026
 To github-hendi:hendi1510/Exploreid.git
    a95770b4..e0fd8e5e  main -> main
 Commit: feat(mobile): add initial destinations mock data - Thu Jun 11 01:04:24 AM WIB 2026
+[main fa79e68e] feat(mobile): add destination images and descriptions
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   e0fd8e5e..fa79e68e  main -> main
+Commit: feat(mobile): add destination images and descriptions - Thu Jun 11 01:05:28 AM WIB 2026
