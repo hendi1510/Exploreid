@@ -247,3 +247,8 @@ Commit: feat(mobile): add destination stats (Durasi, Kapasitas) - Thu Jun 11 01:
 To github-hendi:hendi1510/Exploreid.git
    a6b970ff..598f26c2  main -> main
 Commit: feat(mobile): implement about section and description - Thu Jun 11 01:47:23 AM WIB 2026
+[main 902125cc] feat(mobile): add map placeholder with direct link
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   598f26c2..902125cc  main -> main
+Commit: feat(mobile): add map placeholder with direct link - Thu Jun 11 01:48:27 AM WIB 2026
