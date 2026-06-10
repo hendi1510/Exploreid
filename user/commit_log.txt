@@ -39,3 +39,8 @@ Commit: feat(mobile): scaffold mock data service - Thu Jun 11 01:02:16 AM WIB 20
 To github-hendi:hendi1510/Exploreid.git
    c95a04f2..a95770b4  main -> main
 Commit: feat(mobile): add categories mock data - Thu Jun 11 01:03:20 AM WIB 2026
+[main e0fd8e5e] feat(mobile): add initial destinations mock data
+ 1 file changed, 6 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   a95770b4..e0fd8e5e  main -> main
+Commit: feat(mobile): add initial destinations mock data - Thu Jun 11 01:04:24 AM WIB 2026
