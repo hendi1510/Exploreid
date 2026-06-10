@@ -343,3 +343,8 @@ Commit: style(mobile): refine Reservation form spacing - Thu Jun 11 02:06:41 AM 
 To github-hendi:hendi1510/Exploreid.git
    c69a5a4b..8ab5e612  main -> main
 Commit: style(mobile): enhance payment divider styles - Thu Jun 11 02:07:46 AM WIB 2026
+[main 00f24897] fix(mobile): fix safe area on success modal
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   8ab5e612..00f24897  main -> main
+Commit: fix(mobile): fix safe area on success modal - Thu Jun 11 02:08:50 AM WIB 2026
