@@ -110,3 +110,8 @@ Commit: feat(mobile): implement Recommendation section with FlatList - Thu Jun 1
 To github-hendi:hendi1510/Exploreid.git
    caeb8ad8..9c693d9d  main -> main
 Commit: style(mobile): add elevation and shadows to Home cards - Thu Jun 11 01:18:25 AM WIB 2026
+[main 8ae06c1d] style(mobile): refine Home screen typography
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   9c693d9d..8ae06c1d  main -> main
+Commit: style(mobile): refine Home screen typography - Thu Jun 11 01:19:30 AM WIB 2026
