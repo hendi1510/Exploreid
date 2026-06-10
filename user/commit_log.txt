@@ -445,3 +445,8 @@ Commit: feat(mobile): add logout button with danger color - Thu Jun 11 02:28:03 
 To github-hendi:hendi1510/Exploreid.git
    c69088a4..27a9492d  main -> main
 Commit: style(mobile): update versioning label at bottom - Thu Jun 11 02:29:07 AM WIB 2026
+[main a185c105] fix(mobile): fix avatar border on dark mode
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   27a9492d..a185c105  main -> main
+Commit: fix(mobile): fix avatar border on dark mode - Thu Jun 11 02:30:12 AM WIB 2026
