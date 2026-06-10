@@ -369,3 +369,8 @@ Commit: feat(mobile): scaffold History screen - Thu Jun 11 02:12:02 AM WIB 2026
 To github-hendi:hendi1510/Exploreid.git
    1c99629a..01d2e357  main -> main
 Commit: feat(mobile): implement status badge logic - Thu Jun 11 02:13:06 AM WIB 2026
+[main b754b453] feat(mobile): add reservation history mock data
+ 1 file changed, 6 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   01d2e357..b754b453  main -> main
+Commit: feat(mobile): add reservation history mock data - Thu Jun 11 02:14:10 AM WIB 2026
