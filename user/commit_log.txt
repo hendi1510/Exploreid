@@ -287,3 +287,8 @@ Commit: feat(mobile): add facility icons placeholder - Thu Jun 11 01:54:57 AM WI
 To github-hendi:hendi1510/Exploreid.git
    b2d19795..0942663b  main -> main
 Commit: style(mobile): update price display in Detail footer - Thu Jun 11 01:56:01 AM WIB 2026
+[main 3be0e26a] feat(mobile): scaffold Reservation screen
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   0942663b..3be0e26a  main -> main
+Commit: feat(mobile): scaffold Reservation screen - Thu Jun 11 01:57:05 AM WIB 2026
