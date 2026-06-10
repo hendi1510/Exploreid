@@ -6,3 +6,9 @@ nohup: ignoring input
 To github-hendi:hendi1510/Exploreid.git
    ec6c9d04..b76f9e00  main -> main
 Commit: feat(mobile): initialize theme constants - Thu Jun 11 12:56:49 AM WIB 2026
+[main 98be7cae] feat(mobile): add color palette to theme
+ 2 files changed, 27 insertions(+)
+ create mode 100644 user/src/theme/constants.ts
+To github-hendi:hendi1510/Exploreid.git
+   b76f9e00..98be7cae  main -> main
+Commit: feat(mobile): add color palette to theme - Thu Jun 11 12:57:53 AM WIB 2026
