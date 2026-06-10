@@ -64,3 +64,8 @@ Commit: feat(mobile): add location coordinates to destinations - Thu Jun 11 01:0
 To github-hendi:hendi1510/Exploreid.git
    f1e89d5a..70ef4c94  main -> main
 Commit: feat(mobile): add price formatting to mock data - Thu Jun 11 01:08:41 AM WIB 2026
+[main 3554693c] feat(mobile): update category icons in mock data
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   70ef4c94..3554693c  main -> main
+Commit: feat(mobile): update category icons in mock data - Thu Jun 11 01:09:46 AM WIB 2026
