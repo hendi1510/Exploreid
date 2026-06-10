@@ -232,3 +232,8 @@ Commit: feat(mobile): implement sticky image header on Detail - Thu Jun 11 01:43
 To github-hendi:hendi1510/Exploreid.git
    f44d8c41..1af111fc  main -> main
 Commit: feat(mobile): add back button and share actions - Thu Jun 11 01:44:11 AM WIB 2026
+[main e58dd703] feat(mobile): implement rating and review summary
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   1af111fc..e58dd703  main -> main
+Commit: feat(mobile): implement rating and review summary - Thu Jun 11 01:45:15 AM WIB 2026
