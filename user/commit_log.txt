@@ -572,3 +572,8 @@ Commit: feat(mobile): add Navigation container in root - Thu Jun 11 02:54:45 AM 
 To github-hendi:hendi1510/Exploreid.git
    451d1407..e4dec728  main -> main
 Commit: style(mobile): unify tab bar active colors - Thu Jun 11 02:55:49 AM WIB 2026
+[main fe81ba1f] fix(mobile): fix navigation gesture handling
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   e4dec728..fe81ba1f  main -> main
+Commit: fix(mobile): fix navigation gesture handling - Thu Jun 11 02:56:53 AM WIB 2026
