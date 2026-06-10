@@ -262,3 +262,8 @@ Commit: style(mobile): add rounded corners to Detail content - Thu Jun 11 01:49:
 To github-hendi:hendi1510/Exploreid.git
    ffc266f4..9b5e0f6f  main -> main
 Commit: style(mobile): enhance Detail header overlay - Thu Jun 11 01:50:40 AM WIB 2026
+[main 9ae0a9fd] feat(mobile): implement bottom booking bar
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   9b5e0f6f..9ae0a9fd  main -> main
+Commit: feat(mobile): implement bottom booking bar - Thu Jun 11 01:51:44 AM WIB 2026
