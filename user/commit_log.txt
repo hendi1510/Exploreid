@@ -22,3 +22,9 @@ Commit: feat(mobile): define spacing tokens in theme - Thu Jun 11 12:58:58 AM WI
 To github-hendi:hendi1510/Exploreid.git
    86085fc8..fe34a0ce  main -> main
 Commit: style(mobile): refine theme exports - Thu Jun 11 01:00:03 AM WIB 2026
+[main eb7f092b] docs(mobile): document theme usage
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+ ! [remote rejected]   main -> main (cannot lock ref 'refs/heads/main': is at eb7f092be0d0b0042de1747668ea7edc7a0d21d5 but expected fe34a0ce97a2a2e0ebb1d237622a13d37155f52b)
+error: failed to push some refs to 'github-hendi:hendi1510/Exploreid.git'
+Commit: docs(mobile): document theme usage - Thu Jun 11 01:01:12 AM WIB 2026
