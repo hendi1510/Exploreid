@@ -69,3 +69,8 @@ Commit: feat(mobile): add price formatting to mock data - Thu Jun 11 01:08:41 AM
 To github-hendi:hendi1510/Exploreid.git
    70ef4c94..3554693c  main -> main
 Commit: feat(mobile): update category icons in mock data - Thu Jun 11 01:09:46 AM WIB 2026
+[main 2a02b5d4] fix(mobile): optimize mock data structure
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   3554693c..2a02b5d4  main -> main
+Commit: fix(mobile): optimize mock data structure - Thu Jun 11 01:10:50 AM WIB 2026
