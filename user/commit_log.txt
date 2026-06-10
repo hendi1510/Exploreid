@@ -272,3 +272,8 @@ Commit: feat(mobile): implement bottom booking bar - Thu Jun 11 01:51:44 AM WIB 
 To github-hendi:hendi1510/Exploreid.git
    9ae0a9fd..4090cde5  main -> main
 Commit: style(mobile): refine typography for Detail name - Thu Jun 11 01:52:48 AM WIB 2026
+[main 39336cdc] fix(mobile): fix ScrollView bounce on Android
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   4090cde5..39336cdc  main -> main
+Commit: fix(mobile): fix ScrollView bounce on Android - Thu Jun 11 01:53:53 AM WIB 2026
