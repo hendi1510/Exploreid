@@ -481,3 +481,8 @@ Commit: feat(mobile): add message state management - Thu Jun 11 02:35:32 AM WIB 
 To github-hendi:hendi1510/Exploreid.git
    93723b59..04dba7b4  main -> main
 Commit: feat(mobile): implement automated bot response logic - Thu Jun 11 02:36:36 AM WIB 2026
+[main 78366a86] feat(mobile): add user/bot distinction in UI
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   04dba7b4..78366a86  main -> main
+Commit: feat(mobile): add user/bot distinction in UI - Thu Jun 11 02:37:40 AM WIB 2026
