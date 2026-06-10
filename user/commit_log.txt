@@ -33,3 +33,9 @@ Commit: docs(mobile): document theme usage - Thu Jun 11 01:01:12 AM WIB 2026
 To github-hendi:hendi1510/Exploreid.git
    eb7f092b..c95a04f2  main -> main
 Commit: feat(mobile): scaffold mock data service - Thu Jun 11 01:02:16 AM WIB 2026
+[main a95770b4] feat(mobile): add categories mock data
+ 2 files changed, 48 insertions(+)
+ create mode 100644 user/src/data/mock.ts
+To github-hendi:hendi1510/Exploreid.git
+   c95a04f2..a95770b4  main -> main
+Commit: feat(mobile): add categories mock data - Thu Jun 11 01:03:20 AM WIB 2026
