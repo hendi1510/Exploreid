@@ -567,3 +567,8 @@ Commit: feat(mobile): configure screen transition animations - Thu Jun 11 02:53:
 To github-hendi:hendi1510/Exploreid.git
    fae5ac76..451d1407  main -> main
 Commit: feat(mobile): add Navigation container in root - Thu Jun 11 02:54:45 AM WIB 2026
+[main e4dec728] style(mobile): unify tab bar active colors
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   451d1407..e4dec728  main -> main
+Commit: style(mobile): unify tab bar active colors - Thu Jun 11 02:55:49 AM WIB 2026
