@@ -425,3 +425,8 @@ Commit: feat(mobile): implement user avatar with camera edit - Thu Jun 11 02:23:
 To github-hendi:hendi1510/Exploreid.git
    5869e13f..2a89e25d  main -> main
 Commit: feat(mobile): add menu items list with icons - Thu Jun 11 02:24:51 AM WIB 2026
+[main 086d1438] feat(mobile): implement notification toggle switch
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   2a89e25d..086d1438  main -> main
+Commit: feat(mobile): implement notification toggle switch - Thu Jun 11 02:25:55 AM WIB 2026
