@@ -257,3 +257,8 @@ Commit: feat(mobile): add map placeholder with direct link - Thu Jun 11 01:48:27
 To github-hendi:hendi1510/Exploreid.git
    902125cc..ffc266f4  main -> main
 Commit: style(mobile): add rounded corners to Detail content - Thu Jun 11 01:49:37 AM WIB 2026
+[main 9b5e0f6f] style(mobile): enhance Detail header overlay
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   ffc266f4..9b5e0f6f  main -> main
+Commit: style(mobile): enhance Detail header overlay - Thu Jun 11 01:50:40 AM WIB 2026
