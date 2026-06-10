@@ -115,3 +115,8 @@ Commit: style(mobile): add elevation and shadows to Home cards - Thu Jun 11 01:1
 To github-hendi:hendi1510/Exploreid.git
    9c693d9d..8ae06c1d  main -> main
 Commit: style(mobile): refine Home screen typography - Thu Jun 11 01:19:30 AM WIB 2026
+[main 4184b4b3] style(mobile): fix spacing on Home header
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   8ae06c1d..4184b4b3  main -> main
+Commit: style(mobile): fix spacing on Home header - Thu Jun 11 01:20:34 AM WIB 2026
