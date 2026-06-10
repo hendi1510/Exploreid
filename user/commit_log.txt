@@ -450,3 +450,8 @@ Commit: style(mobile): update versioning label at bottom - Thu Jun 11 02:29:07 A
 To github-hendi:hendi1510/Exploreid.git
    27a9492d..a185c105  main -> main
 Commit: fix(mobile): fix avatar border on dark mode - Thu Jun 11 02:30:12 AM WIB 2026
+[main ff726be0] style(mobile): unify profile menu icon containers
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   a185c105..ff726be0  main -> main
+Commit: style(mobile): unify profile menu icon containers - Thu Jun 11 02:31:15 AM WIB 2026
