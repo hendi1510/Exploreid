@@ -171,3 +171,8 @@ Commit: feat(mobile): implement destination results list - Thu Jun 11 01:30:12 A
 To github-hendi:hendi1510/Exploreid.git
    e101f558..db0f26f0  main -> main
 Commit: style(mobile): add Sliders icon and filter UI - Thu Jun 11 01:31:16 AM WIB 2026
+[main 50b8747b] feat(mobile): add heart icon for wishlist on cards
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   db0f26f0..50b8747b  main -> main
+Commit: feat(mobile): add heart icon for wishlist on cards - Thu Jun 11 01:32:20 AM WIB 2026
