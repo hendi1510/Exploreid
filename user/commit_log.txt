@@ -140,3 +140,8 @@ Commit: style(mobile): update bottom padding for Home screen - Thu Jun 11 01:23:
 To github-hendi:hendi1510/Exploreid.git
    62da1167..b435422c  main -> main
 Commit: refactor(mobile): modularize Home sub-components - Thu Jun 11 01:24:51 AM WIB 2026
+[main c30a7ce1] perf(mobile): improve FlatList performance on Home
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   b435422c..c30a7ce1  main -> main
+Commit: perf(mobile): improve FlatList performance on Home - Thu Jun 11 01:25:55 AM WIB 2026
