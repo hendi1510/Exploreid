@@ -120,3 +120,8 @@ Commit: style(mobile): refine Home screen typography - Thu Jun 11 01:19:30 AM WI
 To github-hendi:hendi1510/Exploreid.git
    8ae06c1d..4184b4b3  main -> main
 Commit: style(mobile): fix spacing on Home header - Thu Jun 11 01:20:34 AM WIB 2026
+[main 2cee3e16] feat(mobile): add Bell icon and notifications entry
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   4184b4b3..2cee3e16  main -> main
+Commit: feat(mobile): add Bell icon and notifications entry - Thu Jun 11 01:21:38 AM WIB 2026
