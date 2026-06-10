@@ -176,3 +176,8 @@ Commit: style(mobile): add Sliders icon and filter UI - Thu Jun 11 01:31:16 AM W
 To github-hendi:hendi1510/Exploreid.git
    db0f26f0..50b8747b  main -> main
 Commit: feat(mobile): add heart icon for wishlist on cards - Thu Jun 11 01:32:20 AM WIB 2026
+[main 04f7fbd3] style(mobile): unify Explore card styles with Home
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   50b8747b..04f7fbd3  main -> main
+Commit: style(mobile): unify Explore card styles with Home - Thu Jun 11 01:33:24 AM WIB 2026
