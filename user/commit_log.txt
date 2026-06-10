@@ -526,3 +526,8 @@ Commit: style(mobile): refine chat header with online status - Thu Jun 11 02:45:
 To github-hendi:hendi1510/Exploreid.git
    04ba833e..2976979f  main -> main
 Commit: style(mobile): fix message time alignment - Thu Jun 11 02:46:12 AM WIB 2026
+[main a612ad3b] perf(mobile): optimize chat message list
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   2976979f..a612ad3b  main -> main
+Commit: perf(mobile): optimize chat message list - Thu Jun 11 02:47:17 AM WIB 2026
