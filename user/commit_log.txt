@@ -399,3 +399,8 @@ Commit: style(mobile): refine History screen header - Thu Jun 11 02:18:27 AM WIB
 To github-hendi:hendi1510/Exploreid.git
    cd3fa2bf..54a4ae1f  main -> main
 Commit: fix(mobile): fix date formatting in History list - Thu Jun 11 02:19:31 AM WIB 2026
+[main 1e489f13] style(mobile): enhance card shadow on History
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   54a4ae1f..1e489f13  main -> main
+Commit: style(mobile): enhance card shadow on History - Thu Jun 11 02:20:35 AM WIB 2026
