@@ -95,3 +95,8 @@ Commit: feat(mobile): add Search bar to Home screen - Thu Jun 11 01:14:03 AM WIB
 To github-hendi:hendi1510/Exploreid.git
    43fd1762..15f656f4  main -> main
 Commit: feat(mobile): implement Hero Banner with promotion data - Thu Jun 11 01:15:13 AM WIB 2026
+[main bc28c68c] feat(mobile): add Category horizontal list to Home
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   15f656f4..bc28c68c  main -> main
+Commit: feat(mobile): add Category horizontal list to Home - Thu Jun 11 01:16:17 AM WIB 2026
