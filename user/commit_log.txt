@@ -282,3 +282,8 @@ Commit: fix(mobile): fix ScrollView bounce on Android - Thu Jun 11 01:53:53 AM W
 To github-hendi:hendi1510/Exploreid.git
    39336cdc..b2d19795  main -> main
 Commit: feat(mobile): add facility icons placeholder - Thu Jun 11 01:54:57 AM WIB 2026
+[main 0942663b] style(mobile): update price display in Detail footer
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   b2d19795..0942663b  main -> main
+Commit: style(mobile): update price display in Detail footer - Thu Jun 11 01:56:01 AM WIB 2026
