@@ -592,3 +592,8 @@ Commit: feat(mobile): update App.tsx to use RootNavigator - Thu Jun 11 02:59:01 
 To github-hendi:hendi1510/Exploreid.git
    73e12bfa..f225d32c  main -> main
 Commit: feat(mobile): add NavigationContainer to App root - Thu Jun 11 03:00:10 AM WIB 2026
+[main 5f732766] style(mobile): configure global StatusBar color
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   f225d32c..5f732766  main -> main
+Commit: style(mobile): configure global StatusBar color - Thu Jun 11 03:01:14 AM WIB 2026
