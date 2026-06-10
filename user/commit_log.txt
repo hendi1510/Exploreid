@@ -379,3 +379,8 @@ Commit: feat(mobile): add reservation history mock data - Thu Jun 11 02:14:10 AM
 To github-hendi:hendi1510/Exploreid.git
    b754b453..cab28293  main -> main
 Commit: feat(mobile): implement horizontal card layout - Thu Jun 11 02:15:15 AM WIB 2026
+[main c8f8a419] style(mobile): add color coding for reservation status
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   cab28293..c8f8a419  main -> main
+Commit: style(mobile): add color coding for reservation status - Thu Jun 11 02:16:19 AM WIB 2026
