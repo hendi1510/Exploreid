@@ -105,3 +105,8 @@ Commit: feat(mobile): add Category horizontal list to Home - Thu Jun 11 01:16:17
 To github-hendi:hendi1510/Exploreid.git
    bc28c68c..caeb8ad8  main -> main
 Commit: feat(mobile): implement Recommendation section with FlatList - Thu Jun 11 01:17:21 AM WIB 2026
+[main 9c693d9d] style(mobile): add elevation and shadows to Home cards
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   caeb8ad8..9c693d9d  main -> main
+Commit: style(mobile): add elevation and shadows to Home cards - Thu Jun 11 01:18:25 AM WIB 2026
