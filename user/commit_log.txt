@@ -363,3 +363,9 @@ Commit: feat(mobile): add order ID generation logic - Thu Jun 11 02:10:58 AM WIB
 To github-hendi:hendi1510/Exploreid.git
    1f854454..1c99629a  main -> main
 Commit: feat(mobile): scaffold History screen - Thu Jun 11 02:12:02 AM WIB 2026
+[main 01d2e357] feat(mobile): implement status badge logic
+ 2 files changed, 95 insertions(+)
+ create mode 100644 user/src/screens/History.tsx
+To github-hendi:hendi1510/Exploreid.git
+   1c99629a..01d2e357  main -> main
+Commit: feat(mobile): implement status badge logic - Thu Jun 11 02:13:06 AM WIB 2026
