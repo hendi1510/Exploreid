@@ -156,3 +156,8 @@ Commit: feat(mobile): scaffold Explore screen - Thu Jun 11 01:26:59 AM WIB 2026
 To github-hendi:hendi1510/Exploreid.git
    4c8521e8..23002c0a  main -> main
 Commit: feat(mobile): implement search logic in Explore - Thu Jun 11 01:28:03 AM WIB 2026
+[main 09711eeb] feat(mobile): add category filter chips to Explore
+ 1 file changed, 6 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   23002c0a..09711eeb  main -> main
+Commit: feat(mobile): add category filter chips to Explore - Thu Jun 11 01:29:08 AM WIB 2026
