@@ -562,3 +562,8 @@ Commit: feat(mobile): implement Native Stack for nested screens - Thu Jun 11 02:
 To github-hendi:hendi1510/Exploreid.git
    725cb5e4..fae5ac76  main -> main
 Commit: feat(mobile): configure screen transition animations - Thu Jun 11 02:53:41 AM WIB 2026
+[main 451d1407] feat(mobile): add Navigation container in root
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   fae5ac76..451d1407  main -> main
+Commit: feat(mobile): add Navigation container in root - Thu Jun 11 02:54:45 AM WIB 2026
