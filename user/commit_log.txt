@@ -277,3 +277,8 @@ Commit: style(mobile): refine typography for Detail name - Thu Jun 11 01:52:48 A
 To github-hendi:hendi1510/Exploreid.git
    4090cde5..39336cdc  main -> main
 Commit: fix(mobile): fix ScrollView bounce on Android - Thu Jun 11 01:53:53 AM WIB 2026
+[main b2d19795] feat(mobile): add facility icons placeholder
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   39336cdc..b2d19795  main -> main
+Commit: feat(mobile): add facility icons placeholder - Thu Jun 11 01:54:57 AM WIB 2026
