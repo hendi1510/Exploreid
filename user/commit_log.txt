@@ -394,3 +394,8 @@ Commit: feat(mobile): add view E-Ticket action link - Thu Jun 11 02:17:23 AM WIB
 To github-hendi:hendi1510/Exploreid.git
    f62b0654..cd3fa2bf  main -> main
 Commit: style(mobile): refine History screen header - Thu Jun 11 02:18:27 AM WIB 2026
+[main 54a4ae1f] fix(mobile): fix date formatting in History list
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   cd3fa2bf..54a4ae1f  main -> main
+Commit: fix(mobile): fix date formatting in History list - Thu Jun 11 02:19:31 AM WIB 2026
