@@ -59,3 +59,8 @@ Commit: feat(mobile): refine rating and reviews mock data - Thu Jun 11 01:06:32 
 To github-hendi:hendi1510/Exploreid.git
    be4d613f..f1e89d5a  main -> main
 Commit: feat(mobile): add location coordinates to destinations - Thu Jun 11 01:07:37 AM WIB 2026
+[main 70ef4c94] feat(mobile): add price formatting to mock data
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   f1e89d5a..70ef4c94  main -> main
+Commit: feat(mobile): add price formatting to mock data - Thu Jun 11 01:08:41 AM WIB 2026
