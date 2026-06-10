@@ -597,3 +597,8 @@ Commit: feat(mobile): add NavigationContainer to App root - Thu Jun 11 03:00:10 
 To github-hendi:hendi1510/Exploreid.git
    f225d32c..5f732766  main -> main
 Commit: style(mobile): configure global StatusBar color - Thu Jun 11 03:01:14 AM WIB 2026
+[main e0bf7b8b] refactor(mobile): remove boilerplate code from App.tsx
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   5f732766..e0bf7b8b  main -> main
+Commit: refactor(mobile): remove boilerplate code from App.tsx - Thu Jun 11 03:02:18 AM WIB 2026
