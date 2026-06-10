@@ -404,3 +404,8 @@ Commit: fix(mobile): fix date formatting in History list - Thu Jun 11 02:19:31 A
 To github-hendi:hendi1510/Exploreid.git
    54a4ae1f..1e489f13  main -> main
 Commit: style(mobile): enhance card shadow on History - Thu Jun 11 02:20:35 AM WIB 2026
+[main 87cfb2c9] perf(mobile): optimize history list rendering
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   1e489f13..87cfb2c9  main -> main
+Commit: perf(mobile): optimize history list rendering - Thu Jun 11 02:21:39 AM WIB 2026
