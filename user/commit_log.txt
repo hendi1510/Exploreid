@@ -531,3 +531,8 @@ Commit: style(mobile): fix message time alignment - Thu Jun 11 02:46:12 AM WIB 2
 To github-hendi:hendi1510/Exploreid.git
    2976979f..a612ad3b  main -> main
 Commit: perf(mobile): optimize chat message list - Thu Jun 11 02:47:17 AM WIB 2026
+[main 17ece859] docs(mobile): document chatbot prompting logic
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   a612ad3b..17ece859  main -> main
+Commit: docs(mobile): document chatbot prompting logic - Thu Jun 11 02:48:21 AM WIB 2026
