@@ -374,3 +374,8 @@ Commit: feat(mobile): implement status badge logic - Thu Jun 11 02:13:06 AM WIB 
 To github-hendi:hendi1510/Exploreid.git
    01d2e357..b754b453  main -> main
 Commit: feat(mobile): add reservation history mock data - Thu Jun 11 02:14:10 AM WIB 2026
+[main cab28293] feat(mobile): implement horizontal card layout
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   b754b453..cab28293  main -> main
+Commit: feat(mobile): implement horizontal card layout - Thu Jun 11 02:15:15 AM WIB 2026
