@@ -420,3 +420,8 @@ Commit: feat(mobile): scaffold Profile screen - Thu Jun 11 02:22:43 AM WIB 2026
 To github-hendi:hendi1510/Exploreid.git
    dc9e45f9..5869e13f  main -> main
 Commit: feat(mobile): implement user avatar with camera edit - Thu Jun 11 02:23:47 AM WIB 2026
+[main 2a89e25d] feat(mobile): add menu items list with icons
+ 1 file changed, 6 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   5869e13f..2a89e25d  main -> main
+Commit: feat(mobile): add menu items list with icons - Thu Jun 11 02:24:51 AM WIB 2026
