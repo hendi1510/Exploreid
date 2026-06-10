@@ -10,6 +10,7 @@ import {
   Star,
   FileText,
   BarChart,
+  QrCode,
 } from 'lucide-react'
 import './Sidebar.css'
 
@@ -70,11 +71,16 @@ export default function Sidebar() {
       </nav>
 
       {/* Footer */}
-      <div className="sidebar-footer">
-        <div className="avatar" style={{ background: 'var(--accent-light)', color: 'var(--accent)' }}>A</div>
-        <div style={{ flex: 1, overflow: 'hidden' }}>
-          <div className="text-sm font-medium truncate">Administrator</div>
-          <div className="text-xs text-muted">admin@exploreid.id</div>
+      <div className="sidebar-footer" style={{ flexDirection: 'column', gap: '0.75rem', height: 'auto', padding: '1rem' }}>
+        <button className="btn btn-primary" style={{ width: '100%', justifyContent: 'center', gap: '0.5rem' }} onClick={() => alert('Fitur Scan QR Aktif...')}>
+          <QrCode size={18} /> Scan QR Ticket
+        </button>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', width: '100%' }}>
+          <div className="avatar" style={{ background: 'var(--accent-light)', color: 'var(--accent)' }}>A</div>
+          <div style={{ flex: 1, overflow: 'hidden' }}>
+            <div className="text-sm font-medium truncate">Administrator</div>
+            <div className="text-xs text-muted">admin@exploreid.id</div>
+          </div>
         </div>
       </div>
     </aside>
