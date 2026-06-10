@@ -496,3 +496,8 @@ Commit: style(mobile): add Sparkles icon to bot avatar - Thu Jun 11 02:38:45 AM 
 To github-hendi:hendi1510/Exploreid.git
    ad733375..c6aad0e5  main -> main
 Commit: feat(mobile): implement keyboard avoiding view - Thu Jun 11 02:39:49 AM WIB 2026
+[main 84e149f0] style(mobile): refine chat input container styles
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   c6aad0e5..84e149f0  main -> main
+Commit: style(mobile): refine chat input container styles - Thu Jun 11 02:40:52 AM WIB 2026
