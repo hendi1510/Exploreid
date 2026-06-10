@@ -455,3 +455,8 @@ Commit: fix(mobile): fix avatar border on dark mode - Thu Jun 11 02:30:12 AM WIB
 To github-hendi:hendi1510/Exploreid.git
    a185c105..ff726be0  main -> main
 Commit: style(mobile): unify profile menu icon containers - Thu Jun 11 02:31:15 AM WIB 2026
+[main 951658df] feat(mobile): add premium member badge to profile
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   ff726be0..951658df  main -> main
+Commit: feat(mobile): add premium member badge to profile - Thu Jun 11 02:32:20 AM WIB 2026
