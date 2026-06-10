@@ -308,3 +308,8 @@ Commit: feat(mobile): add date picker UI and selection - Thu Jun 11 01:59:13 AM 
 To github-hendi:hendi1510/Exploreid.git
    b1e94715..7db9d5f6  main -> main
 Commit: feat(mobile): implement payment summary calculation - Thu Jun 11 02:00:17 AM WIB 2026
+[main b3cb9074] feat(mobile): add bank transfer payment method
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   7db9d5f6..b3cb9074  main -> main
+Commit: feat(mobile): add bank transfer payment method - Thu Jun 11 02:01:21 AM WIB 2026
