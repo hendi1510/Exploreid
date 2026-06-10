@@ -552,3 +552,8 @@ Commit: feat(mobile): add Custom Tab Bar icons and labels - Thu Jun 11 02:50:29 
 To github-hendi:hendi1510/Exploreid.git
    8740a747..b8cb46bc  main -> main
 Commit: feat(mobile): configure Bottom Tab styles - Thu Jun 11 02:51:33 AM WIB 2026
+[main 725cb5e4] feat(mobile): implement Native Stack for nested screens
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   b8cb46bc..725cb5e4  main -> main
+Commit: feat(mobile): implement Native Stack for nested screens - Thu Jun 11 02:52:37 AM WIB 2026
