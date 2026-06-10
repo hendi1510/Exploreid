@@ -486,3 +486,8 @@ Commit: feat(mobile): implement automated bot response logic - Thu Jun 11 02:36:
 To github-hendi:hendi1510/Exploreid.git
    04dba7b4..78366a86  main -> main
 Commit: feat(mobile): add user/bot distinction in UI - Thu Jun 11 02:37:40 AM WIB 2026
+[main ad733375] style(mobile): add Sparkles icon to bot avatar
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   78366a86..ad733375  main -> main
+Commit: style(mobile): add Sparkles icon to bot avatar - Thu Jun 11 02:38:45 AM WIB 2026
