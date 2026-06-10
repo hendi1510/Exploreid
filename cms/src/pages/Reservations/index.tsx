@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Search, Eye, X, Filter } from 'lucide-react'
+import { Search, Eye, X, Filter, Check } from 'lucide-react'
 
 type ResStatus = 'confirmed' | 'pending' | 'cancelled' | 'completed'
 
@@ -51,11 +51,16 @@ const summaryStats = [
 ]
 
 export default function Reservations() {
+  const [filteredReservations, setFilteredReservations] = useState<Reservation[]>(reservations)
   const [search, setSearch]     = useState('')
   const [statusFilter, setStatusFilter] = useState<'all' | ResStatus>('all')
   const [detail, setDetail]     = useState<Reservation | null>(null)
 
-  const filtered = reservations.filter(r => {
+  const handleCheckIn = (id: string) => {
+    setFilteredReservations(prev => prev.map(r => r.id === id ? { ...r, status: 'completed' } : r))
+  }
+
+  const filtered = filteredReservations.filter(r => {
     const matchSearch = r.user.toLowerCase().includes(search.toLowerCase()) ||
                         r.destination.toLowerCase().includes(search.toLowerCase()) ||
                         r.id.toLowerCase().includes(search.toLowerCase())
@@ -135,9 +140,16 @@ export default function Reservations() {
                 <td><span className={`badge ${statusMap[r.status]}`}>{statusLabel[r.status]}</span></td>
                 <td style={{ color: 'var(--text-muted)', fontSize: '0.8rem' }}>{r.createdAt}</td>
                 <td>
-                  <button className="icon-btn" style={{ color: 'var(--text-secondary)' }} onClick={() => setDetail(r)} title="Lihat Detail">
-                    <Eye size={15} />
-                  </button>
+                  <div className="flex gap-2">
+                    <button className="icon-btn" style={{ color: 'var(--text-secondary)' }} onClick={() => setDetail(r)} title="Lihat Detail">
+                      <Eye size={15} />
+                    </button>
+                    {r.status === 'confirmed' && (
+                      <button className="icon-btn" style={{ color: 'var(--success)' }} onClick={() => handleCheckIn(r.id)} title="Check-in" id={`btn-checkin-${r.id}`}>
+                        <Check size={15} />
+                      </button>
+                    )}
+                  </div>
                 </td>
               </tr>
             ))}
