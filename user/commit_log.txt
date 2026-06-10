@@ -90,3 +90,8 @@ Commit: feat(mobile): implement Home header and greeting - Thu Jun 11 01:12:59 A
 To github-hendi:hendi1510/Exploreid.git
    3e68561d..43fd1762  main -> main
 Commit: feat(mobile): add Search bar to Home screen - Thu Jun 11 01:14:03 AM WIB 2026
+[main 15f656f4] feat(mobile): implement Hero Banner with promotion data
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   43fd1762..15f656f4  main -> main
+Commit: feat(mobile): implement Hero Banner with promotion data - Thu Jun 11 01:15:13 AM WIB 2026
