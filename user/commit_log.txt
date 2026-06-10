@@ -54,3 +54,8 @@ Commit: feat(mobile): add destination images and descriptions - Thu Jun 11 01:05
 To github-hendi:hendi1510/Exploreid.git
    fa79e68e..be4d613f  main -> main
 Commit: feat(mobile): refine rating and reviews mock data - Thu Jun 11 01:06:32 AM WIB 2026
+[main f1e89d5a] feat(mobile): add location coordinates to destinations
+ 1 file changed, 5 insertions(+)
+To github-hendi:hendi1510/Exploreid.git
+   be4d613f..f1e89d5a  main -> main
+Commit: feat(mobile): add location coordinates to destinations - Thu Jun 11 01:07:37 AM WIB 2026
