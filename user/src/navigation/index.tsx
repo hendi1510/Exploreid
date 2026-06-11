@@ -12,6 +12,8 @@ import Profile from '../screens/Profile';
 import Detail from '../screens/Detail';
 import Reservation from '../screens/Reservation';
 import Chatbot from '../screens/Chatbot';
+import Login from '../screens/Login';
+import Register from '../screens/Register';
 
 const Tab = createBottomTabNavigator();
 const Stack = createNativeStackNavigator();
@@ -75,7 +77,9 @@ function TabNavigator() {
 
 export default function RootNavigator() {
   return (
-    <Stack.Navigator screenOptions={{ headerShown: false }}>
+    <Stack.Navigator screenOptions={{ headerShown: false }} initialRouteName="Login">
+      <Stack.Screen name="Login" component={Login} />
+      <Stack.Screen name="Register" component={Register} />
       <Stack.Screen name="Tabs" component={TabNavigator} />
       <Stack.Screen name="Detail" component={Detail} />
       <Stack.Screen name="Reservation" component={Reservation} />

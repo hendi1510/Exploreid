@@ -1,4 +1,4 @@
-import { NavLink } from 'react-router-dom'
+import { NavLink, useNavigate } from 'react-router-dom'
 import {
   LayoutDashboard,
   Users,
@@ -11,6 +11,7 @@ import {
   FileText,
   BarChart,
   QrCode,
+  LogOut,
 } from 'lucide-react'
 import './Sidebar.css'
 
@@ -30,6 +31,13 @@ const contentNav = [
 ]
 
 export default function Sidebar() {
+  const navigate = useNavigate();
+
+  const handleLogout = () => {
+    localStorage.removeItem('isAuthenticated');
+    window.location.reload(); // Force reload to trigger App.tsx guard
+  };
+
   return (
     <aside className="sidebar">
       {/* Brand */}
@@ -75,12 +83,15 @@ export default function Sidebar() {
         <button className="btn btn-primary" style={{ width: '100%', justifyContent: 'center', gap: '0.5rem' }} onClick={() => alert('Fitur Scan QR Aktif...')}>
           <QrCode size={18} /> Scan QR Ticket
         </button>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', width: '100%' }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', width: '100%', borderTop: '1px solid var(--border)', paddingTop: '0.75rem' }}>
           <div className="avatar" style={{ background: 'var(--accent-light)', color: 'var(--accent)' }}>A</div>
           <div style={{ flex: 1, overflow: 'hidden' }}>
             <div className="text-sm font-medium truncate">Administrator</div>
             <div className="text-xs text-muted">admin@exploreid.id</div>
           </div>
+          <button className="logout-mini" onClick={handleLogout} title="Logout">
+            <LogOut size={18} color="var(--danger)" />
+          </button>
         </div>
       </div>
     </aside>

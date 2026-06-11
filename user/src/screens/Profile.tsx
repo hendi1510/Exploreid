@@ -3,8 +3,12 @@ import { View, Text, StyleSheet, Image, TouchableOpacity, ScrollView, Switch } f
 import { User, Settings, CreditCard, Bell, Shield, HelpCircle, LogOut, ChevronRight, Camera } from 'lucide-react-native';
 import { COLORS, SPACING } from '../theme/constants';
 
-export default function Profile() {
+export default function Profile({ navigation }: any) {
   const [notif, setNotif] = React.useState(true);
+
+  const handleLogout = () => {
+    navigation.replace('Login');
+  };
 
   const menuItems = [
     { icon: User, label: 'Edit Profil', color: COLORS.primary },
@@ -50,7 +54,7 @@ export default function Profile() {
         ))}
       </View>
 
-      <TouchableOpacity style={styles.logoutBtn}>
+      <TouchableOpacity style={styles.logoutBtn} onPress={handleLogout}>
         <LogOut size={20} color={COLORS.danger} />
         <Text style={styles.logoutText}>Keluar Akun</Text>
       </TouchableOpacity>
