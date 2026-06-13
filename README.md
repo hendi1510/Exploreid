@@ -28,16 +28,16 @@
 
 - Clone Repository : https://github.com/hendi1510/Exploreid.git
 - Menjalankan Mesin API
-    - cd api
-    - npm install
-    - npm run start:dev
+    - `cd api`
+    - `npm install`
+    - `npm run start:dev`
 - Instalasi Backend
-    - cd user
-    - npm install
+    - `cd user`
+    - `npm install`
 - Instalansi Frontend cms
-    - cd cms
-    - npm install
+    - `cd cms`
+    - `npm install`
 - Menjalankan Frontend
-    - npm run dev
+    - `npm run dev`
 
 Akses di: http://localhost:5173
