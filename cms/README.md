@@ -28,3 +28,4 @@ Panel administrasi untuk mengelola seluruh konten website wisata ExploreID.
 cd cms && npm install && npm run dev
 
 Akses di: http://localhost:5173
+ 
